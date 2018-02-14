@@ -8,6 +8,7 @@ import android.support.annotation.Nullable;
  */
 
 public interface ILoginRepository {
+
     /**
      *
      * @param email
